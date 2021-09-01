@@ -1,4 +1,10 @@
- <label for="Interest">Interest:</label>
+ <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>BOOK_TYPE</title>
+  </head>
+  <body>
+  <label for="Interest">Interest:</label>
         <select id= "Interest" name="Interest">
             <option id="--select your interest--">--select your interest--</option>
                 <option value="Action and adventure">Action and adventure</option>
@@ -57,4 +63,7 @@
                 <option value="Travel">Travel</option>
                 <option value="Young adult">Young adult</option>
                 <option value="True crime">True crime</option>
-        </select><br>
+        </select>
+        </body>
+</html>
+
